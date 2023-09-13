@@ -1,0 +1,38 @@
+.folder-select-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .folder-select-container h1 {
+    font-size: 24px;
+  }
+  
+  .folder-select-container .dropzone {
+    border: 2px dashed #aaa;
+    padding: 20px;
+    cursor: pointer;
+    margin: 20px auto;
+    width: 300px;
+  }
+  
+  .folder-select-container .dropzone p {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  .folder-select-container button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .folder-select-container button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+
+  

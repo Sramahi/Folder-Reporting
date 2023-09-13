@@ -1,0 +1,21 @@
+.home-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.home-title {
+  font-size: 36px;
+  color: #2e2e2e;
+  margin-bottom: 10px;
+}
+
+.home-description {
+  font-size: 18px;
+  color: #444444;
+  margin-bottom: 30px;
+}
+
+.folder-icon {
+  width: 150px;
+  height: 150px;
+}
